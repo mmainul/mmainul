@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mainul Hasan
-- 👀 I’m interested in PHP, JavaScript, WordPress
-- 🌱 I’m currently learning JavaScript, Vue, React
+- 👀 I’m interested in PHP, Python, JavaScript, WordPress
+- 🌱 I’m currently learning JavaScript, Vue, React, Django, Software architecture, project management
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me moh.mainul.hasan@gmail.com
 
